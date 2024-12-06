@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1GZ7M1O3nZz1RmurAZ-YQFwHEyUK34wwa
+  /:
+    url: https://content.da.live/ctctest2025/test01/
+    type: markup
